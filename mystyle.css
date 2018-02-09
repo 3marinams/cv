@@ -1,0 +1,181 @@
+html{
+    width: 100%;
+    height: 100%;
+    margin:0px;
+    padding:0px;
+    font-family: "verdana";
+    background-color:#FDEAEC;
+}
+
+/*div {
+  border: solid 2px black;
+  color rosa foto: #FAC9CC;
+  color violeta foto: #9ca4bb;
+}*/
+
+header{
+  text-align: center;
+}
+
+body {
+  margin:25px;
+}
+
+.dadescap{
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+}
+
+.titol{
+  display:flex;
+  justify-content:flex-start;
+  align-items: flex-center;
+}
+
+#dades{
+  display:flex;
+  justify-content:flex-end;
+  flex-direction:column;
+  align-items:flex-end;
+  margin-right: 25px;
+}
+
+#capcelera {
+  /*background:url("pintura-en-agua3.jpg");
+  background-size:cover; 
+  background-position: 20% 20%;*/
+  color:#8ccaca;
+  margin-bottom: 25px;
+  border-radius:20px;
+  padding:25px;
+
+}
+
+#xarxes {
+  display:flex;
+  justify-content:flex-end;
+}
+
+#icones {
+  position:relative;
+  display:flex;
+  justify-content:center;
+}
+
+.icona{
+  width:64px;
+  height:64px;
+  margin:5px;
+}
+
+.iconapetit{
+  width:32px;
+  height:32px;
+  margin:5px;
+}
+
+.iconamoltpetit{
+  width:16px;
+  height:16px;
+}
+
+#perfil{
+  display:flex;
+  align-items: center;
+  margin-bottom: 25px;
+  padding:25px;
+}
+
+#resumperfil{
+    margin-left: 15px;
+}
+
+.dia {
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  width: 20%;
+  background-color:#FD8A91;
+}
+
+.cjt{
+  display:flex;
+  margin: 10px;
+}
+
+.escola {
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+  width:80%;
+  background-color:#FAC9CC;
+}
+
+.feina{
+  display:flex;
+  justify-content:space-around;
+  align-items: center;
+  width:80%;
+  background-color:#FAC9CC;
+}
+
+.imgRodona{
+  border-radius:50px;
+  width: 40%;
+  height: 40%;
+}
+
+.accordionsection {
+  height: 50px;
+  background: #E7E7E6;
+}
+
+.carousel-inner img {
+      width: 90%;
+      height: 90%;
+}
+
+table{
+  border-spacing: 2rem;
+}
+
+#estudis{
+    margin-bottom: 25px;
+    padding:25px;
+}
+
+#idiomes{
+    margin-bottom: 25px;
+    padding:25px;
+}
+
+#experiencialaboral{
+    margin-bottom: 25px;
+    padding:25px;
+}
+
+#coneixements{
+    margin-bottom: 25px;
+    padding:25px;
+}
+
+#aptituds{
+    margin-bottom: 25px;
+    padding:25px;
+}
+
+.aptitudstaula{
+  background-color:#FAC9CC;
+  padding:25px;
+}
+
+#orientacio{
+    margin-bottom: 25px;
+    padding:25px;
+}
+
+#formulari {
+  margin-bottom: 25px;
+  padding:25px;
+}
