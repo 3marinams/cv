@@ -168,11 +168,17 @@ table{
 .aptitudstaula{
   background-color:#FAC9CC;
   padding:25px;
+  width:6000px;
+  height: 100px;
+  text-align: center;
 }
 
 #orientacio{
     margin-bottom: 25px;
-    padding:25px;
+}
+
+#orientaciopar {
+   padding:25px;
 }
 
 #formulari {
